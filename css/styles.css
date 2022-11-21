@@ -470,7 +470,7 @@ box-shadow: var(--card-shadow);
     
     display: flex;
     align-items: baseline;
-    justify-content: space-between;
+   
 }
 
 .footer-contacts {
@@ -513,7 +513,7 @@ box-shadow: var(--card-shadow);
     color: var(--accent-color);
 }
 .footer-socials {
-   
+  
     color: var(--background-color);
 }
 .footer-list {
@@ -564,7 +564,9 @@ box-shadow: var(--card-shadow);
     text-transform: uppercase;
      color: var(--background-color);
  }
-
+.footer-subscription {
+    margin-left: auto;
+}
 .booking-group {
     display: flex;
     gap: 12px;
